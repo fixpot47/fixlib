@@ -1,7 +1,8 @@
-FixLib 2.1.1+26.2
+FixLib 2.2.0+26.3
 
-Compatibility fork/rebrand of uku's ukulib 2.1.1+26.2.
+Compatibility fork/rebrand of uku's ukulib 2.2.0+26.3.
 Original project: https://github.com/uku3lig/ukulib
+Original release source: https://github.com/uku3lig/ukulib/tree/2.2.0%2B26.3
 Original copyright: Copyright (c) 2023 uku
 License: Mozilla Public License 2.0 (MPL-2.0)
-FixLib branding/metadata/icon changes maintained by fixpot47.
+FixLib branding/metadata/config-namespace changes maintained by fixpot47.
