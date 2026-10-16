@@ -41,7 +41,7 @@ jobs:
       - name: Build source with Gradle
         run: |
           chmod +x gradlew
-          ./gradlew :fabric:build --no-daemon --stacktrace
+          ./gradlew :fabric:build -Pbuild.release=true --no-daemon --stacktrace
 
       - name: Save build outputs
         if: success()
